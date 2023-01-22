@@ -1,0 +1,13 @@
+ Basics in javascript : 
+  
+   console.log(text) : to print text in the console
+   console.table(array) : to print the array as table in the console
+  
+   array.push(element) : to push new element in the array
+   array.slice(start, end) :  generate a shallow copy of a portion of an array into a new array 
+   array.map(function) : loop over the elements and minpulate elements values
+  
+   element += value : is equal to (element = element + value)
+   element /= value : is equal to (element = element / value)
+   element -= value : is equal to (element -= value)
+   element *= value : is equal to (element * value)
